@@ -4,7 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+### npm install --save react-useinterval
+
+### npm install chart.js
+
+### npm install --save react-chartjs-2 chart.js
 In the project directory, you can run:
+
+### npm install -S react-chartjs@git://github.com/reactjs/react-chartjs.git#chartjs-v2
+
 
 ### `npm start`
 
